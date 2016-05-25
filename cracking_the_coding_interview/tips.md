@@ -23,3 +23,11 @@
 
 * All recursive problems can also be solved iteratively, talk about the trade-offs
 * Recursive algorithms can be space inefficient, each recursive call adds another layer to the stack (O(n) calls use O(n) memory)
+
+## Bayes Rule (ADD ME TO FLASHCARDS):
+
+* P(A & B) when A and B are independent : P(A)P(B)
+* P(A & B) when A and B are not independent : P(A given B)P(B)
+* P(A | B) when A and B are mutually excludsive : P(A) + P(B)
+* P(A | B) when A and B are not mutually exclusive : P(A) + P(B) - P(A & B)
+
