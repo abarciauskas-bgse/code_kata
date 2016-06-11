@@ -31,3 +31,14 @@
 * P(A | B) when A and B are mutually excludsive : P(A) + P(B)
 * P(A | B) when A and B are not mutually exclusive : P(A) + P(B) - P(A & B)
 
+## System Design and Memoray Limits: How to approach
+
+1. Solve for a small number of items. Develop an algorithm for this case
+2. For many items, how do you divde the data up amongst many machines? Do the first 100 show up on one computer or across 100 (i%100)?
+   About how many computers will you need?
+3. Address challenges of distributed computing:
+   a. How does the system know which machine holds lookup data?
+   b. Can data get out of sync? How do we handle that?
+   c. How can we minimize expensive reads across computers?
+
+
