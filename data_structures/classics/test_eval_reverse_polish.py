@@ -31,7 +31,6 @@ def eval_reverse_polish(operators_operands_arr):
 def test_answer():
     assert eval_reverse_polish(["2", "1", "+", "3", "*"]) == 9
     assert eval_reverse_polish(["4", "13", "5", "/", "+"]) == 6
-    #pytest.raises(ValueError, eval_reverse_polish(["4", "13", "5", "/"]))
 
 
 import unittest
