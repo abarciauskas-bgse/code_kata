@@ -1,5 +1,3 @@
-import pytest
-
 valid_operators = ["+", "-", "/", "*"]
 
 def eval_reverse_polish(operators_operands_arr):
@@ -27,22 +25,3 @@ def eval_reverse_polish(operators_operands_arr):
     if len(stack) > 1:
         raise ValueError("Bad arguments: invalid operator operand combination")
     return stack[0]
-
-def test_answer():
-    assert eval_reverse_polish(["2", "1", "+", "3", "*"]) == 9
-    assert eval_reverse_polish(["4", "13", "5", "/", "+"]) == 6
-
-
-import unittest
-
-class MyTestCase(unittest.TestCase):
-    def test(self):
-        with self.assertRaises(ValueError) as context:
-            eval_reverse_polish(["4", "13", "5", "/"])
-
-        self.assertTrue("Bad arguments: invalid operator operand combination" in context.exception)
-
-if __name__ == '__main__':
-    unittest.main()
-# Nice but requiers 2 tests...
-

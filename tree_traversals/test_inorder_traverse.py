@@ -5,9 +5,9 @@ class InOrderTraverseMethods(unittest.TestCase):
 
     def test_helpers(self):
         tree_array = [8,3,10,1,6,None,14,None,None,4,7,None,None,13,None]
-        self.assertEqual(parent(tree_array, 13), 14)
-        self.assertEqual(right(tree_array, 2), 14)
-        self.assertEqual(left(tree_array, 2), None)
+        self.assertEqual(tree_helpers.parent(tree_array, 13), 14)
+        self.assertEqual(tree_helpers.right(tree_array, 2), 14)
+        self.assertEqual(tree_helpers.left(tree_array, 2), None)
 
     def test_inorder_traversal(self):
         tree_array = [8,3,10,1,6,None,14,None,None,4,7,None,None,13,None]
