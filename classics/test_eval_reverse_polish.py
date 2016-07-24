@@ -1,5 +1,5 @@
 import unittest
-execfile('eval_reverse_polish.py')
+import eval_reverse_polish as *
 
 class MyTestCase(unittest.TestCase):
     def test(self):

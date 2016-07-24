@@ -4,6 +4,7 @@ def postorder_traverse(tree_array):
     stack = [tree_array[0]]
     visited = []
     while len(stack) > 0:
+        # is like a peek
         current = stack[0]
         current_item_index = tree_array.index(current)
         left = tree_helpers.left(tree_array, current_item_index)

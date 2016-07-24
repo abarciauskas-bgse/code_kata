@@ -24,6 +24,19 @@ class BinaryTree():
             print current
             self.inorder_traverse(self.tree_dict[current]['right_child'])
 
+    # def preOrder(root):
+    #     # Initialization:
+    #     stack = [root.left, root.right]
+    #     node_str = str(root.data)
+    #     while len(stack) > 0:
+    #         current = stack.pop(0)
+    #         node_str += ' ' + str(current.data)
+    #         if current.right is not None:
+    #             stack.insert(0, current.right)
+    #         if current.left is not None:         
+    #             stack.insert(0, current.left)
+    #     print node_str
+    
     def breadth_first_search(self, search_value):
         # Using a queue, we first append the left and then right of the root node to the queue
         # then while the queue is non empty, we take the last item from the queue and explore and add it's children
