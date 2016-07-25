@@ -17,3 +17,5 @@ Resources:
 * shortest path - an extension of bfs, just need to add bookeeping of distance to parent + 1
 * recursive bfs or dfs
 * integer division without "/" or "*" (ADM #1-28)
+* simple string matching (ADM pg44)
+* fast exponentiation (ADM pg 48): 
