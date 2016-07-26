@@ -18,4 +18,4 @@ Resources:
 * recursive bfs or dfs
 * integer division without "/" or "*" (ADM #1-28)
 * simple string matching (ADM pg44)
-* fast exponentiation (ADM pg 48): 
+* finish kmeans

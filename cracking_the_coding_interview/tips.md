@@ -22,7 +22,7 @@
 #### Other things to watch out for:
 
 * All recursive problems can also be solved iteratively, talk about the trade-offs
-* Recursive algorithms can be space inefficient, each recursive call adds another layer to the stack (O(n) calls use O(n) memory)
+    * Recursive algorithms can be memory inefficient, each recursive call adds another layer to the stack (O(n) calls use O(n) memory)
 
 ## Bayes Rule (ADD ME TO FLASHCARDS):
 
@@ -31,11 +31,10 @@
 * P(A | B) when A and B are mutually excludsive : P(A) + P(B)
 * P(A | B) when A and B are not mutually exclusive : P(A) + P(B) - P(A & B)
 
-## System Design and Memoray Limits: How to approach
+## System Design and Memory Limits: How to approach
 
 1. Solve for a small number of items. Develop an algorithm for this case
-2. For many items, how do you divde the data up amongst many machines? Do the first 100 show up on one computer or across 100 (i%100)?
-   About how many computers will you need?
+2. For many items, how do you divide the data up amongst many machines? Do the first 100 show up on one computer or across 100 (i%100)?     About how many computers will you need?
 3. Address challenges of distributed computing:
    a. How does the system know which machine holds lookup data?
    b. Can data get out of sync? How do we handle that?
