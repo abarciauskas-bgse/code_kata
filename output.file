@@ -1,0 +1,191 @@
+total 24
+-rw-r--r--   1 abarciauskas  staff   946 Jul 25 22:10 README.md
+drwxr-xr-x   3 abarciauskas  staff   102 Jul  9 14:23 __pycache__
+drwxr-xr-x   6 abarciauskas  staff   204 Jul 24 18:09 bit_manipulation
+drwxr-xr-x   3 abarciauskas  staff   102 Jun  4 02:01 career_cup
+drwxr-xr-x   5 abarciauskas  staff   170 Jul 10 20:05 classics
+drwxr-xr-x  12 abarciauskas  staff   408 Jun 11 06:33 cracking_the_coding_interview
+drwxr-xr-x  13 abarciauskas  staff   442 Jul 24 18:04 data_structures
+drwxr-xr-x   9 abarciauskas  staff   306 Jul 26 20:15 hackerrank
+drwxr-xr-x  12 abarciauskas  staff   408 Jun 11 06:50 interactive_python
+-rw-r--r--   1 abarciauskas  staff  1285 Jul 27 12:43 kmeans.py
+-rw-r--r--   1 abarciauskas  staff  2131 Jul 23 15:43 ml_questions.md
+drwxr-xr-x   3 abarciauskas  staff   102 Jun 13 06:11 nontechnical
+drwxr-xr-x   7 abarciauskas  staff   238 Jul 10 19:59 sorting
+drwxr-xr-x   6 abarciauskas  staff   204 Jul 25 09:05 the_algorithm_design_manual
+drwxr-xr-x  11 abarciauskas  staff   374 Jul 27 12:46 tree_traversals
+
+./__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  1411 Jul  9 14:23 test_inorder_traverse.cpython-27-PYTEST.pyc
+
+./bit_manipulation:
+total 24
+drwxr-xr-x  3 abarciauskas  staff   102 Jul 24 11:14 __pycache__
+-rw-r--r--  1 abarciauskas  staff  1025 Jul 24 11:12 convert_to_binary.py
+-rw-r--r--  1 abarciauskas  staff   918 Jul 24 11:14 convert_to_binary.pyc
+-rw-r--r--  1 abarciauskas  staff   219 Jul 24 18:09 test_convert_to_binary.py
+
+./bit_manipulation/__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  1885 Jul 24 11:14 test_convert_to_binary.cpython-27-PYTEST.pyc
+
+./career_cup:
+total 8
+-rw-r--r--  1 abarciauskas  staff  967 Jun  4 02:13 16759664.py
+
+./classics:
+total 16
+drwxr-xr-x  4 abarciauskas  staff   136 Jul 10 20:06 __pycache__
+-rw-r--r--  1 abarciauskas  staff  1032 Jul 10 20:05 eval_reverse_polish.py
+-rw-r--r--  1 abarciauskas  staff   365 Jul 24 10:32 test_eval_reverse_polish.py
+
+./classics/__pycache__:
+total 16
+-rw-r--r--  1 abarciauskas  staff  3268 Jun 11 03:10 test.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1118 Jul 10 20:06 test_eval_reverse_polish.cpython-27-PYTEST.pyc
+
+./cracking_the_coding_interview:
+total 8
+drwxr-xr-x  6 abarciauskas  staff   204 May 15 07:44 chapter_1
+drwxr-xr-x  2 abarciauskas  staff    68 May 22 09:10 chapter_10
+drwxr-xr-x  5 abarciauskas  staff   170 Jun 13 05:05 chapter_11
+drwxr-xr-x  2 abarciauskas  staff    68 Jun 11 06:32 chapter_12
+drwxr-xr-x  3 abarciauskas  staff   102 May 16 11:01 chapter_2
+drwxr-xr-x  3 abarciauskas  staff   102 May 17 04:44 chapter_3
+drwxr-xr-x  3 abarciauskas  staff   102 May 22 08:02 chapter_4
+drwxr-xr-x  3 abarciauskas  staff   102 May 22 08:50 chapter_8
+-rw-r--r--  1 abarciauskas  staff  2005 Jul 25 22:10 tips.md
+
+./cracking_the_coding_interview/chapter_1:
+total 24
+drwxr-xr-x  2 abarciauskas  staff   68 May 15 07:57 __pycache__
+-rw-r--r--  1 abarciauskas  staff  640 May 15 07:51 quicksort.py
+-rw-r--r--  1 abarciauskas  staff  726 May 15 03:39 test_1_1.py
+-rw-r--r--  1 abarciauskas  staff  909 May 15 07:56 test_1_4.py
+
+./cracking_the_coding_interview/chapter_1/__pycache__:
+
+./cracking_the_coding_interview/chapter_10:
+
+./cracking_the_coding_interview/chapter_11:
+total 16
+-rw-r--r--  1 abarciauskas  staff  941 Jun 11 06:33 11_3.md
+drwxr-xr-x  3 abarciauskas  staff  102 Jun 13 05:14 __pycache__
+-rw-r--r--  1 abarciauskas  staff  526 Jun 13 05:14 test_11_6.py
+
+./cracking_the_coding_interview/chapter_11/__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  2158 Jun 13 05:14 test_11_6.cpython-27-PYTEST.pyc
+
+./cracking_the_coding_interview/chapter_12:
+
+./cracking_the_coding_interview/chapter_2:
+total 8
+-rw-r--r--  1 abarciauskas  staff  647 May 16 11:08 pseudo.md
+
+./cracking_the_coding_interview/chapter_3:
+total 8
+-rw-r--r--  1 abarciauskas  staff  2183 May 17 09:42 pseudo.md
+
+./cracking_the_coding_interview/chapter_4:
+total 8
+-rw-r--r--  1 abarciauskas  staff  892 May 22 08:06 4_2.py
+
+./cracking_the_coding_interview/chapter_8:
+total 8
+-rw-r--r--  1 abarciauskas  staff  991 May 22 08:43 8_1_fibonacci.py
+
+./data_structures:
+total 80
+drwxr-xr-x  5 abarciauskas  staff   170 Jul 24 18:05 __pycache__
+-rw-r--r--  1 abarciauskas  staff   925 Jul 11 14:23 bin_heap.py
+-rw-r--r--  1 abarciauskas  staff  2943 Jul 21 14:32 binary_tree.py
+-rw-r--r--  1 abarciauskas  staff   814 Jul 24 17:54 graph_search.py
+-rw-r--r--  1 abarciauskas  staff   994 Jul 24 18:04 graph_search.pyc
+-rw-r--r--  1 abarciauskas  staff   979 Jul 21 14:42 hash_table.py
+-rw-r--r--  1 abarciauskas  staff  1925 Jul 11 09:13 linked_list.py
+-rw-r--r--  1 abarciauskas  staff   343 Jul 10 20:08 node.py
+-rw-r--r--  1 abarciauskas  staff   464 Jul 11 14:23 test_bin_heap_methods.py
+-rw-r--r--  1 abarciauskas  staff   305 Jul 24 18:05 test_graph_search.py
+-rw-r--r--  1 abarciauskas  staff   527 Jul 11 09:13 test_linked_list_methods.py
+
+./data_structures/__pycache__:
+total 24
+-rw-r--r--  1 abarciauskas  staff  1449 Jul 11 14:23 test_bin_heap_methods.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1337 Jul 24 18:05 test_graph_search.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1481 Jul 11 09:13 test_linked_list_methods.cpython-27-PYTEST.pyc
+
+./hackerrank:
+total 1680
+drwxr-xr-x  3 abarciauskas  staff     102 Jul 26 20:27 __pycache__
+-rw-r--r--  1 abarciauskas  staff     551 Jul 20 17:16 closest-pair.py
+-rw-r--r--  1 abarciauskas  staff     536 May 22 10:16 diagonal_difference.py
+-rw-r--r--  1 abarciauskas  staff     804 Jul 26 20:12 insertion_sort.py
+-rw-r--r--  1 abarciauskas  staff     960 Jul 26 20:15 insertion_sort.pyc
+-rw-r--r--  1 abarciauskas  staff  838581 Jul 20 17:13 ints.txt
+-rw-r--r--  1 abarciauskas  staff     304 Jul 26 20:16 test_insertion_sort.py
+
+./hackerrank/__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  1520 Jul 26 20:27 test_insertion_sort.cpython-27-PYTEST.pyc
+
+./interactive_python:
+total 72
+drwxr-xr-x  3 abarciauskas  staff   102 Jun 11 06:55 __pycache__
+-rw-r--r--  1 abarciauskas  staff   425 Jun  5 08:23 balanceParens.py
+-rw-r--r--  1 abarciauskas  staff  1478 Jun  4 09:07 bin_heap.ipynb
+-rw-r--r--  1 abarciauskas  staff  2154 Jun  4 06:05 buildTree.ipynb
+-rw-r--r--  1 abarciauskas  staff   171 Jun  5 09:57 recursiveAddition.py
+-rw-r--r--  1 abarciauskas  staff   110 Jun  5 10:04 recursiveFactorial.py
+-rw-r--r--  1 abarciauskas  staff   770 Jun 11 06:56 test_convertToBase.py
+-rw-r--r--  1 abarciauskas  staff   639 Jun  5 10:29 towerOfHanoi.py
+-rw-r--r--  1 abarciauskas  staff  5440 Jun  4 09:04 tree.ipynb
+
+./interactive_python/__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  2836 Jun 11 06:55 test_convertToBase.cpython-27-PYTEST.pyc
+
+./nontechnical:
+total 16
+-rw-r--r--  1 abarciauskas  staff  5478 Jul 25 12:47 qa.md
+
+./sorting:
+total 32
+drwxr-xr-x  8 abarciauskas  staff   272 Jul 10 12:56 __pycache__
+-rw-r--r--  1 abarciauskas  staff  1245 May 15 03:50 merge_sort.py
+-rw-r--r--  1 abarciauskas  staff   561 Jul  9 16:25 quicksort.py
+-rw-r--r--  1 abarciauskas  staff  1256 May 15 07:51 test_quick_sort.py
+-rw-r--r--  1 abarciauskas  staff   441 Jul  9 16:27 test_quicksort.py
+
+./sorting/__pycache__:
+total 48
+-rw-r--r--  1 abarciauskas  staff   934 Jul 10 10:34 inorder_traverse.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff   917 Jul 10 10:48 postorder_traverse.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1453 Jul 10 10:35 test_inorder_traverse.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1191 Jul 10 10:42 test_postorder_traverse.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1069 Jul 10 12:56 test_preorder_traverse.cpython-27-PYTEST.pyc
+-rw-r--r--  1 abarciauskas  staff  1119 Jul  9 16:27 test_quicksort.cpython-27-PYTEST.pyc
+
+./the_algorithm_design_manual:
+total 24
+drwxr-xr-x  3 abarciauskas  staff  102 Jul 25 09:00 __pycache__
+-rw-r--r--  1 abarciauskas  staff  259 Jul 25 09:05 fast_exponentiation.py
+-rw-r--r--  1 abarciauskas  staff  588 Jul 25 09:05 fast_exponentiation.pyc
+-rw-r--r--  1 abarciauskas  staff  228 Jul 25 09:00 test_fast_exponentiation.py
+
+./the_algorithm_design_manual/__pycache__:
+total 8
+-rw-r--r--  1 abarciauskas  staff  1607 Jul 25 09:00 test_fast_exponentiation.cpython-27-PYTEST.pyc
+
+./tree_traversals:
+total 72
+-rw-r--r--  1 abarciauskas  staff  632 Jul 10 10:34 inorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  601 Jul 27 12:49 inorder_traverse2.py
+-rw-r--r--  1 abarciauskas  staff  676 Jul 21 10:43 postorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  478 Jul 10 13:01 preorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  589 Jul 10 10:35 test_inorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  487 Jul 10 10:42 test_postorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  327 Jul 10 12:56 test_preorder_traverse.py
+-rw-r--r--  1 abarciauskas  staff  398 Jul 10 10:33 tree_helpers.py
+-rw-r--r--  1 abarciauskas  staff  855 Jul 10 10:34 tree_helpers.pyc
