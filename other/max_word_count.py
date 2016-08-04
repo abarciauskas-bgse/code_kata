@@ -1,5 +1,6 @@
 import re
 
+# returns the max words in any sentence
 def solution(S):
     sentences = re.split("\.|\!|\?", S)
     num_sentences = len(sentences)
