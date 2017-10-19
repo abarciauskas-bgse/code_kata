@@ -11,6 +11,7 @@ Resources:
 * **[Algorithms: Design and Analysis, Part 1 (Stanford via Coursera)](https://www.coursera.org/course/algo)**
 * **[HackerRank](https://www.hackerrank.com)**
 * **[The Algorithm Design Manual (ADM)](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693)**
+* **[Hired in Tech](http://www.hiredintech.com/)
 
 # TODO
 

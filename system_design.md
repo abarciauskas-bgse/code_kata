@@ -2,9 +2,15 @@
 
 ## Resources
 
-* [Le Cloud Blog: Posts tagged "scalability" (4-part series)](http://www.lecloud.net/tagged/scalability)
-* 
+* [Le Cloud Blog: Scalability for Dummies / Posts tagged "scalability" (4-part series)](http://www.lecloud.net/tagged/scalability)
+* [Hired in Tech: System Design](http://www.hiredintech.com/system-design/)
 
+## System Design Process
+
+1. Constraints and use cases
+2. Abstract design
+3. Understanding bottlenecks
+4. Scaling the abstract design
 
 
 ## Golden Rules for Scalability
